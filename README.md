@@ -39,4 +39,4 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
 ## <img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/1-peach-goma-animations.gif" width="30"> GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=endotsuki)
 
-<img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/24-peach-goma-animations.gif " width="30"> From me [Onimuzha](https://github.com/onimuxha)
+<img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/24-peach-goma-animations.gif " width="30"> From me [Socheath](https://github.com/endotsuki)
