@@ -27,11 +27,11 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
 ## <img src="https://www.carriercompliancedep.com/?_=%2F5fRy7PGcQz0AAAAj%2Fpeach-cat-goma.gif%2302abbcA1Wouuhy6iTSFio5iOmqB56%2BY%3D" width="30"> GitHub Stats
 
 <p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-<img alt="Onimuzha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=onimuxha&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onimuxha&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Your GitHub streak" />
+<img alt="endotsuki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=endotsuki&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=endotsuki&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Your GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onimuxha&layout=compact&theme=radical" alt="Your most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endotsuki&layout=compact&theme=radical" alt="Your most used languages" />
 </p>
 
 ## <img src="https://media.tenor.com/5tYXnZk7vSsAAAAj/peach-goma.gif" width="30"> Repository Highlights
@@ -39,15 +39,15 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
 ### Most Starred Repositories
 
 <p align="center">
-  <a href="https://github.com/Onimuxha/iconsek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onimuxha&repo=iconsek&theme=radical&show_owner=true" alt="iconsek" />
+  <a href="https://github.com/endotsuki/iconsek">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=endotsuki&repo=iconsek&theme=radical&show_owner=true" alt="iconsek" />
   </a>
-  <a href="https://github.com/Onimuxha/jupiter-iconz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onimuxha&repo=jupiter-iconz&theme=radical&show_owner=true" alt="iconsek" />
+  <a href="https://github.com/endotsuki/jupiter-iconz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=endotsuki&repo=jupiter-iconz&theme=radical&show_owner=true" alt="iconsek" />
   </a>
 </p>
 
 ## <img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/1-peach-goma-animations.gif" width="30"> GitHub Trophies
-![](https://github-trophies.vercel.app/?username=onimuxha)
+![](https://github-trophies.vercel.app/?username=endotsuki)
 
 <img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/24-peach-goma-animations.gif " width="30"> From me [Onimuzha](https://github.com/onimuxha)
